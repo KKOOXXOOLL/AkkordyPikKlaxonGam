@@ -6,3 +6,4 @@
 - [Полуарлекин Полумонах](songs/poluarlekin)
 - [За кружкой пива](songs/zakruzhkoipiva)
 - [Инструментал 1 (пусто)](songs/instrumental1kompot)
+- [Розовый свет](songs/rozoviisvet)
