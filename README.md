@@ -2,7 +2,7 @@
 
 ![image](https://github.com/KKOOXXOOLL/WDSWD/assets/133001225/fee698f4-0bcc-4d90-a06c-4b1a18ebc3f9)
 
-## Песни
+## КомПот Дебил Децибел Пик Клаксон Бесплатно Весь
 ![IMG_001](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/78518e65-94f1-44aa-8080-455fd4d36399)
 
 - [Полуарлекин Полумонах](songs/poluarlekin)
@@ -19,7 +19,7 @@
 - [Я долго трепал каблуками потёртый асфальт...](songs/yadolgotrepalkablukami)
 - [Я песок](songs/yapesok)
 
-## Песни
+##  Лечебница Для Душевноздоровых
 ![cover jpg](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/0952a55c-ae83-4404-97eb-8e281c287273)
 
 - [Сумасбродный идиот](songs/sumasbrodniiidiot)
@@ -35,3 +35,23 @@
 - [Бешеный воробей](songs/besheniivorobei)
 - [Ужасайство, мрачнейся](songs/uzhasaistvo)
 - [Рецепт](songs/recept)
+
+## С новым годом!
+![btr_015_09](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/bd1fa384-3b80-41e2-8204-d9d86c332c16)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+
+
