@@ -19,6 +19,19 @@
 - [Я долго трепал каблуками потёртый асфальт...](songs/yadolgotrepalkablukami)
 - [Я песок](songs/yapesok)
 
+
+## Лечебница live in Omsk
+ ![btr5](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/b493e0de-18af-469f-be11-4608c624dab8)
+ - [Mein Kampf]()
+ - [Сияющая Мерзость]()
+ - [Сядем На Танки]()
+ - [Эй, Брат Любер!]()
+ - [Железный Карантин]()
+ - [Тридцать Доводов]()
+ - [Третий Рейх]()
+ - [Как Вы Хотите Играть?]()
+ 
+
 ##  Лечебница Для Душевноздоровых
 ![cover jpg](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/0952a55c-ae83-4404-97eb-8e281c287273)
 
@@ -53,5 +66,6 @@
 - [В грязной воде](songs/vgraznoivode)
 - [Кем мы только не были](songs/kemmitolkonebili)
 - [Свобода - это дзен](songs/svobodaetodzen1)
+
 
 
