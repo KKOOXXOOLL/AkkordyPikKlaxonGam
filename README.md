@@ -4,3 +4,4 @@
 
 ## Песни
 - [Полуарлекин Полумонах](songs/poluarlekin)
+- [За кружкой пива](songs/zakruzhkoipiva)
