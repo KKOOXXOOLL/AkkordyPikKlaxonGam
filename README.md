@@ -1,4 +1,5 @@
 # Dелкам
-Здесь аккорды
-![cover jpg](https://github.com/KKOOXXOOLL/WDSWD/assets/133001225/beeb4b6b-044d-4ea0-8979-26ba702acc1e)
-- [Полуарлекин Полумонах](songs/poluarlekin)
+Здесь s
+![image](https://github.com/KKOOXXOOLL/WDSWD/assets/133001225/fee698f4-0bcc-4d90-a06c-4b1a18ebc3f9)
+
+- [Полуарлекин Полумонах] (песни/полуарлекин)
