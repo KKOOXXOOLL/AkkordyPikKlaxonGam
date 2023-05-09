@@ -18,3 +18,20 @@
 ## Бонусы
 - [Я долго трепал каблуками потёртый асфальт...](songs/yadolgotrepalkablukami)
 - [Я песок](songs/yapesok)
+
+## Песни
+![cover jpg](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/0952a55c-ae83-4404-97eb-8e281c287273)
+
+- [Сумасбродный идиот](songs/sumasbrodniiidiot)
+- [Каннибализм](songs/kannibalizm)
+- [Четверо пугал](songs/chetveropugal)
+- [АБ](songs/AB)
+- [Кто имеет меня](songs/ktoimeetmenya)
+- [Камнем вниз](songs/kamnemvniz)
+- [Западня](songs/zapadnya)
+- [Звезда в тарелке](songs/zvezdavtarelke)
+- [С тобой вдвоём](songs/stoboivdvoyem)
+- [Лечебница для душевноздоровых](songs/lechebnica)
+- [Бешеный воробей](songs/besheniivorobei)
+- [Ужасайство, мрачнейся](songs/uzhasaistvo)
+- [Рецепт](songs/recept)
