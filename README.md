@@ -122,5 +122,21 @@
 - [У самой воды](songs/usamoivodi)
 
 
+## Страна Назначения – СССР 
+- [Зубы на асфальте](songs/zubinaasfalte)
+- [Толпа одиноких](songs/tolpaodinokih)
+- [Ты недоволен своим именем](songs/tinedovolen2)
+- [Саботаж](songs/sabotazh2)
+- [Восходит Солнце](songs/voshoditsolnce)
+- [Всё симпатично](songs/vsyosimpatichno)
+- [Пей, дружок, пей](songs/peidruzhokpei)
+- [Морской рассказ](songs/morskoirasskaz)
+- [Гора от добрых добра](songs/goraotdobrihdobra)
+- [Перед воротами](songs/peredvorotami)
+- [Ты скажешь](songs/tiskazhesh2)
+- [Свобода - это дзен](songs/svobodaetodzen2)
+- [Тайна](songs/taina)
+
+
 
 
