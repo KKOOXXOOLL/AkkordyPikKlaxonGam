@@ -110,6 +110,16 @@
 ## Приют святой Цецилии
 ![IMG_001](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/8381a9f7-467f-4ccf-be0d-8c7e41176206)
 
+- [Третья сторона медали](songs/tretyastoronamedali)
+- [Логика - это полнейшая аномалия](songs/logikaetoanatomia)
+- [Будда №3](songs/budda3)
+- [Приют святой Цецилии](songs/priyutsvyatoicecilii)
+- [Анархия](songs/anarhiya)
+- [Дети, внимание!](songs/detivnimaniye)
+- [Эльф](songs/elf)
+- [Воспоминание о Москве и Питере - 1986 года](songs/prostuzhaniiprospekt)
+- [В этой комнате](songs/vetoikomnate)
+- [У самой воды](songs/usamoivodi)
 
 
 
