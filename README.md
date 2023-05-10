@@ -37,7 +37,7 @@
 ##  Лечебница Для Душевноздоровых
 ![cover jpg](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/0952a55c-ae83-4404-97eb-8e281c287273)
 
-- [Сумасбродный идиот](songs/sumasbrodniiidiot)
+- [Сумасбродный идиот](songs/sumosbrodniiidiot) 
 - [Каннибализм](songs/kannibalizm)
 - [Четверо пугал](songs/chetveropugal1)
 - [АБ](songs/AB)
