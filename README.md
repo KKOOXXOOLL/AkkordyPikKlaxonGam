@@ -27,11 +27,11 @@
  - [Mein Kampf](songs/mienkampf)
  - [Сияющая Мерзость](songs/siyayushayamerzost) 
  - [Сядем На Танки](songs/syademnatanki)
- - [Эй, Брат Любер!]()
+ - [Эй, Брат Любер!](eibratlyuber)
  - [Железный Карантин]()
  - [Тридцать Доводов](songs/30dovodov)
  - [Третий Рейх](songs/tretiireih)
- - [Как Вы Хотите Играть?]()
+ - [Как Вы Хотите Играть?](songs/kakvihotiteigrat) 
  
 
 ##  Лечебница Для Душевноздоровых
@@ -50,7 +50,7 @@
 - [Бешеный воробей](songs/besheniivorobei)
 - [Ужасайство, мрачнейся](songs/uzhasaistvo)
 - [Рецепт](songs/recept)
-- 
+
 
 ## С новым годом!
 ![btr_015_09](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/bd1fa384-3b80-41e2-8204-d9d86c332c16)
@@ -70,7 +70,7 @@
 - [В грязной воде](songs/vgraznoivode)
 - [Кем мы только не были](songs/kemmitolkonebili)
 - [Свобода - это дзен](songs/svobodaetodzen1)
-- 
+
 
 ## Лишние звуки
 ![btr_016_09](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/afdf3ba5-d76e-4e43-9aec-f201ec5ce3d7)
