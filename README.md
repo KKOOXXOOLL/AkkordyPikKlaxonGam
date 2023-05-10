@@ -88,7 +88,7 @@
 - [Этой ночью](songs/etoinochyu2)
 - [Я превращаюсь в гада](songs/yaprevrashayus)
 - [Утомлённый сладким сном](songs/utomlennii)
-- [Что-то непонятное (Солнце удивляется)](songs/chotoneponyatnoe)
+- [Что-то непонятное (Солнце удивляется)](songs/chtotoneponyatnoe) 
 - [Прекрасная весёлая игра](songs/prekrasnayaveselayaigra)
 - [Симуляция](songs/simulyacia)
 - [Я чувствую себя не в своих штанах](songs/nevsvoihshtanah)
