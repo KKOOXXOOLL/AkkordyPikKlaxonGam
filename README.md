@@ -107,6 +107,10 @@
 - [Одумайся(пусто)](songs/odumaisya)
 
 
+## Приют святой Цецилии
+![IMG_001](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/8381a9f7-467f-4ccf-be0d-8c7e41176206)
+
+
 
 
 
