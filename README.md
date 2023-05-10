@@ -25,8 +25,8 @@
  ![btr5](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/b493e0de-18af-469f-be11-4608c624dab8)
  
  - [Mein Kampf](songs/mienkampf)
- - [Сияющая Мерзость]()
- - [Сядем На Танки]()
+ - [Сияющая Мерзость](songs/siyayushayamerzost) 
+ - [Сядем На Танки](songs/syademnatanki)
  - [Эй, Брат Любер!]()
  - [Железный Карантин]()
  - [Тридцать Доводов](songs/30dovodov)
