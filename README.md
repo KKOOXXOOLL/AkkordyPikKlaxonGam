@@ -24,13 +24,13 @@
 ## Лечебница live in Omsk
  ![btr5](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/b493e0de-18af-469f-be11-4608c624dab8)
  
- - [Mein Kampf](mienkampf)
+ - [Mein Kampf](songs/mienkampf)
  - [Сияющая Мерзость]()
  - [Сядем На Танки]()
  - [Эй, Брат Любер!]()
  - [Железный Карантин]()
- - [Тридцать Доводов]()
- - [Третий Рейх]()
+ - [Тридцать Доводов](songs/30dovodov)
+ - [Третий Рейх](songs/tretiireih)
  - [Как Вы Хотите Играть?]()
  
 
