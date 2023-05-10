@@ -95,6 +95,16 @@
 - [Наплевать (Бонус)](songs/naplevat)
 
 
+## Ослиная голова 
+
+
+- [Пролог+Линия(пусто)](songs/prologliniya)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
+- [](songs/)
 
 
 
