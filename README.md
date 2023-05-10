@@ -4,7 +4,6 @@
 
 
 ## КомПот Дебил Децибел Пик Клаксон Бесплатно Весь
-![IMG_001](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/78518e65-94f1-44aa-8080-455fd4d36399)
 
 - [Полуарлекин Полумонах](songs/poluarlekin)
 - [За кружкой пива](songs/zakruzhkoipiva)
@@ -22,7 +21,6 @@
 
 
 ## Лечебница live in Omsk
- ![btr5](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/b493e0de-18af-469f-be11-4608c624dab8)
  
  - [Mein Kampf](songs/mienkampf)
  - [Сияющая Мерзость](songs/siyayushayamerzost) 
@@ -53,7 +51,6 @@
 
 
 ## С новым годом!
-![btr_015_09](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/bd1fa384-3b80-41e2-8204-d9d86c332c16)
 
 - [В каком морге лучше](songs/vkakommorge)
 - [Сегодня здесь можно всё](songs/mozhnovsyo)
@@ -73,7 +70,6 @@
 
 
 ## Лишние звуки
-![btr_016_09](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/afdf3ba5-d76e-4e43-9aec-f201ec5ce3d7)
 
 - [Услуга](songs/usluga)
 - [Ты скажешь](songs/tiskazhesh1)
@@ -96,7 +92,6 @@
 
 
 ## Ослиная голова 
-![пк1989-1 webp (1649×1461) - Google Chrome 10 05 2023 11_48_56 (2)](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/304e0405-1e72-4fc9-8433-2d9d29e05371)
 
 - [Пролог+Линия(пусто)](songs/prologliniya)
 - [Та старуха](songs/tastaruha)
@@ -108,7 +103,6 @@
 
 
 ## Приют святой Цецилии
-![IMG_001](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/8381a9f7-467f-4ccf-be0d-8c7e41176206)
 
 - [Третья сторона медали](songs/tretyastoronamedali)
 - [Логика - это полнейшая аномалия](songs/logikaetoanatomia)
@@ -123,6 +117,7 @@
 
 
 ## Страна Назначения – СССР 
+
 - [Зубы на асфальте](songs/zubinaasfalte)
 - [Толпа одиноких](songs/tolpaodinokih)
 - [Ты недоволен своим именем](songs/tinedovolen2)
