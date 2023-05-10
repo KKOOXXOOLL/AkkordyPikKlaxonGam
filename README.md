@@ -12,7 +12,7 @@
 - [Розовый свет](songs/rozoviisvet)
 - [Злой старик](songs/zloystarik)
 - [Жигули](songs/zhiguli)
-- [Инструментал 2 (Пусто)](songs/instrumental2kompot)
+- [Инструментал 2 (пусто)](songs/instrumental2kompot)
 - [Красноглазый вампир](songs/krasniglaziivampir)
 - [ПикКлаксон](songs/ppikklaxonn)
 - [Что для чего](songs/chtodlyachego)
@@ -96,15 +96,15 @@
 
 
 ## Ослиная голова 
-
+![пк1989-1 webp (1649×1461) - Google Chrome 10 05 2023 11_48_56 (2)](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/304e0405-1e72-4fc9-8433-2d9d29e05371)
 
 - [Пролог+Линия(пусто)](songs/prologliniya)
-- [](songs/)
-- [](songs/)
-- [](songs/)
-- [](songs/)
-- [](songs/)
-- [](songs/)
+- [Та старуха](songs/tastaruha)
+- [Больное время(пусто)](songs/bolnoevremya)
+- [Вопль(пусто)](songs/vopl)
+- [Ослиная голова(пусто)](songs/oslinayagolova)
+- [Маршаль(пусто)](songs/marshal)
+- [Одумайся(пусто)](songs/odumaisya)
 
 
 
