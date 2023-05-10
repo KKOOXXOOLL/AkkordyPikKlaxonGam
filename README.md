@@ -24,7 +24,7 @@
 ## Лечебница live in Omsk
  ![btr5](https://github.com/KKOOXXOOLL/AkkordyPikKlaxonGam/assets/133001225/b493e0de-18af-469f-be11-4608c624dab8)
  
- - [Mein Kampf]()
+ - [Mein Kampf](mienkampf)
  - [Сияющая Мерзость]()
  - [Сядем На Танки]()
  - [Эй, Брат Любер!]()
