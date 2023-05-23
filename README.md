@@ -23,7 +23,7 @@
 ## Лечебница live in Omsk
  
  - [Mein Kampf](songs/mienkampf)
- - [Сияющая Мерзость](songs/siyayushayamerzost) 
+ - [Сияющая Мерзость (пусто)](songs/siyayushayamerzost) 
  - [Сядем На Танки](songs/syademnatanki)
  - [Эй, Брат Любер!](songs/eibratlyuber)
  - [Железный Карантин](songs/zhelezniikarantin) 
@@ -40,9 +40,9 @@
 - [АБ](songs/AB)
 - [Кто имеет меня](songs/ktoimeetmenya)
 - [Камнем вниз](songs/kamnemvniz)
-- [Западня](songs/zapadnya)
+- [Западня (пусто)](songs/zapadnya)
 - [Звезда в тарелке](songs/zvezdavtarelke)
-- [С тобой вдвоём](songs/stoboivdvoyem)
+- [С тобой вдвоём (пусто)](songs/stoboivdvoyem)
 - [Лечебница для душевноздоровых](songs/lechebnica)
 - [Бешеный воробей](songs/besheniivorobei)
 - [Ужасайство, мрачнейся](songs/uzhasaistvo)
